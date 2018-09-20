@@ -1,0 +1,8 @@
+
+
+% ENVIROMENT SCRIPT FOR MECHANICAL SIMULACION
+
+Jeq = 
+beq =
+Tm = 
+Tleq =
